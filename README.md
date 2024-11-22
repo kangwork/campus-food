@@ -1,8 +1,14 @@
+# Campus Food
+
 ### **App Name**: CampusFood  
 A conceptual food pre-ordering app tailored for campus life, with high-fidelity designs crafted in Figma.
 
 ### **Overview**  
 CampusFood is designed to streamline dining on campus. By offering pre-ordering capabilities, personalized recommendations, and dietary customization options, this app aims to make campus dining convenient and efficient.
+
+
+https://github.com/user-attachments/assets/bd07b587-8ad4-4627-83a4-58f6d6aa0a7b
+
 
 ---
 
